@@ -4,7 +4,10 @@ An intelligent windshield wiper system that automatically adjusts wiper speed ba
 
 ## Video Demonstration
 
-[Watch the Full Demonstration Video Here](https://drive.google.com/file/d/1UxkX-qEOcS6TmOnwTlDcR-uoaRsDWoky/view?usp=drivesdk)
+<a href="https://drive.google.com/file/d/1UxkX-qEOcS6TmOnwTlDcR-uoaRsDWoky/view?usp=drivesdk" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/play-button-circled.png" alt="Play Video"/>
+  Watch Full Demonstration (Opens in new tab)
+</a>
 
 ## Features
 
@@ -36,4 +39,4 @@ An intelligent windshield wiper system that automatically adjusts wiper speed ba
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/automatic-wiper-controller.git
+   git clone https://github.com/abhix667/automatic-wiper-controller.git
