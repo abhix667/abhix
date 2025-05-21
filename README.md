@@ -39,4 +39,4 @@ An intelligent windshield wiper system that automatically adjusts wiper speed ba
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/abhix667/automatic-wiper-controller.git
+   git clone https://github.com/abhix667/abhix.git
